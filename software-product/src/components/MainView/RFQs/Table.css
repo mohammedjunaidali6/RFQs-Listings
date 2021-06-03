@@ -1,0 +1,32 @@
+.MUI{
+    
+    margin: 0px 10px ;
+    /* padding-top: 96px; */
+    
+}
+.MUI  MaterialTable{
+    padding: 9px;
+}
+.MuiTableCell-root {
+    display: table-cell;
+    padding: 9px;
+    font-size: 0.875rem;
+    text-align: left;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    line-height: 1.43;
+    border-bottom: 1px solid rgba(224, 224, 224, 1);
+    letter-spacing: 0.01071em;
+    vertical-align: inherit;
+}
+/* .MUI .uitable{
+    margin-bottom: 400px; 
+
+    
+} */
+/* 
+.MuiTableCell-root {
+    display: table-cell;
+    padding: 7px;
+    
+} */
